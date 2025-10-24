@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="1]XVHga-w~Q3W;?En|;C" x="58" y="5"><statement name="HANDLER"><block type="device_show_leds" id="o+Dv:s!MdwoN~12?lLP)"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="|Vl{ivkc[?7WY4]K)SO,"><value name="pause"><shadow type="timePicker" id="Tc$`46{sQDMBx|id^GEy"><field name="ms">1500</field></shadow></value><next><block type="device_show_leds" id="T]L58Bz~cgz^1FQq8(D["><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="=$`[/q{GZLY#]w:F%mY4"><value name="pause"><shadow type="timePicker" id=".oNnNWl/h1g]m(naNErZ"><field name="ms">1500</field></shadow></value><next><block type="device_show_leds" id="@It{8v*6$5HNk-y5d+@c"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="zlU}+7L#]yh;XC=TvqO2"><value name="pause"><shadow type="timePicker" id="/24r`dj-ep%mXVYNoGOh"><field name="ms">1500</field></shadow></value><next><block type="device_show_leds" id="OYfOXz0JJpCAEgMC?LqC"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="dv6c`k,hnwAV~0R8o,FP"><value name="pause"><shadow type="timePicker" id="5v6T#.8*{@94@.cx]$:,"><field name="ms">1500</field></shadow></value><next><block type="device_show_leds" id="$z}}zQIGd4Vbx+jdzv`5"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="5#80wAug5rr@lJZZ[~Bt"><value name="pause"><shadow type="timePicker" id="5H`|p;QQhzNdiim_1-O6"><field name="ms">1500</field></shadow></value><next><block type="device_print_message" id="l2%(Gp%I|Z:W#8*Qpx#1"><value name="text"><shadow type="text" id="5Byrlf^A%Vxg;:RqNiyO"><field name="TEXT">HORARIO:</field></shadow></value><next><block type="device_print_message" id="(VzL.y88vK=21ba@n}P~"><value name="text"><shadow type="text" id="`,nGfMLPJpR(z)tVn0;^"><field name="TEXT">De 8:00 a 14:00</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
